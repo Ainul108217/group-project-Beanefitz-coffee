@@ -48,6 +48,7 @@
   }
   .ul{
       list-style-type: none;
+      margin-left: 100%;
   }    
   .row img ul{
     display: inline-block;

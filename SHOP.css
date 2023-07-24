@@ -13,8 +13,9 @@
     text-align: left;
 }
 .Shop-col img{
-    width: 90%;
+    width: 100%;
     border-radius: 10px;
+    margin: auto;
 }
 
 .Shop-col p{

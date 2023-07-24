@@ -1,0 +1,28 @@
+/*----Shop----*/
+
+.Shop{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+    padding-top: 100px;
+}
+.Shop-col{
+    flex-basis: 31%;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    text-align: left;
+}
+.Shop-col img{
+    width: 90%;
+    border-radius: 10px;
+}
+
+.Shop-col p{
+    padding: 0;
+}
+
+.Shop-col h3{
+    margin-top: 16px;
+    margin-bottom: 15px;
+    text-align: center;
+}
